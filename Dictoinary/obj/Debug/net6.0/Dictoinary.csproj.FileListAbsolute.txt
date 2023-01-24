@@ -1,0 +1,15 @@
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/SimpleCod/Dictoinary/Dictoinary/obj/Debug/net6.0/Dictoinary.csproj.AssemblyReference.cache
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/SimpleCod/Dictoinary/Dictoinary/obj/Debug/net6.0/Dictoinary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/SimpleCod/Dictoinary/Dictoinary/obj/Debug/net6.0/Dictoinary.AssemblyInfoInputs.cache
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/SimpleCod/Dictoinary/Dictoinary/obj/Debug/net6.0/Dictoinary.AssemblyInfo.cs
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/SimpleCod/Dictoinary/Dictoinary/obj/Debug/net6.0/Dictoinary.csproj.CoreCompileInputs.cache
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/SimpleCod/Dictoinary/Dictoinary/bin/Debug/net6.0/Dictoinary
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/SimpleCod/Dictoinary/Dictoinary/bin/Debug/net6.0/Dictoinary.deps.json
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/SimpleCod/Dictoinary/Dictoinary/bin/Debug/net6.0/Dictoinary.runtimeconfig.json
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/SimpleCod/Dictoinary/Dictoinary/bin/Debug/net6.0/Dictoinary.dll
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/SimpleCod/Dictoinary/Dictoinary/bin/Debug/net6.0/Dictoinary.pdb
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/SimpleCod/Dictoinary/Dictoinary/obj/Debug/net6.0/Dictoinary.dll
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/SimpleCod/Dictoinary/Dictoinary/obj/Debug/net6.0/refint/Dictoinary.dll
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/SimpleCod/Dictoinary/Dictoinary/obj/Debug/net6.0/Dictoinary.pdb
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/SimpleCod/Dictoinary/Dictoinary/obj/Debug/net6.0/Dictoinary.genruntimeconfig.cache
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/SimpleCod/Dictoinary/Dictoinary/obj/Debug/net6.0/ref/Dictoinary.dll
